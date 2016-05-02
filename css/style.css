@@ -114,6 +114,7 @@ a:focus {
         margin: 5px 0;
         line-height: 1.5; }
     #sidebar .widget .search-form {
+      padding-bottom: 1px;
       position: relative;
       overflow: hidden; }
       #sidebar .widget .search-form input {
